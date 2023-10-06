@@ -21,7 +21,6 @@ plt.clf()
 plt.imshow(image_of_a_bush, cmap = 'gray')
 
 
-
 ## --------- Image display and Look Up Tables ---------
 
 # img_stored = skimage.io.imread("./AbsoluteFilePath/SavedPhoto.fmt")
